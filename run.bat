@@ -1,0 +1,1 @@
+docker run -it --rm --entrypoint "/run.sh" -p 8888:8888 -v C:\dev\und\CarND-LaneLines-P1:/src udacity/carnd-term1-starter-kit
